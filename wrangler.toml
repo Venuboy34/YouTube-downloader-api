@@ -1,4 +1,4 @@
-name = "youtube-downloader-api"
-type = "javascript"
-workers_dev = true
+name = "youtube-downloader"
+main = "worker.js"
 compatibility_date = "2025-06-11"
+workers_dev = true
