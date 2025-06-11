@@ -1,0 +1,4 @@
+name = "youtube-downloader-api"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2025-06-11"
